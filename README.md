@@ -6,7 +6,7 @@ This is a mini project for Big Data Analytics. The project analyzes an employee 
 
 \## Dataset
 
-The dataset used in this project is an Employee Performance and Salary Dataset (Employe_Performance_dataset.csv) sourced from Kaggle and originally published by Nadeem Majeed. It contains employee information such as:
+The dataset used in this project is an Employee Performance and Salary Dataset (Employe_Performance_dataset.csv) sourced from Kaggle and originally published by NADEEM MAJEED. It contains employee information such as:
 
 \- ID
 
